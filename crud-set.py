@@ -32,3 +32,5 @@ print(set_countries)
 
 set_countries.clear()
 print(len(set_countries) )
+
+print("")
