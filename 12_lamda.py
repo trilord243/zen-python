@@ -1,11 +1,6 @@
-def increment(x):
-    return x+1
+full_name= lambda name="",lastname="": f"Mi nombre es {name} y apellido {lastname} "
 
-increment_v2=lambda x : x+1
+print(full_name("Felipe","Escalona"))
 
 
-print(increment_v2(2))
 
-print("")
-
-print("Hello wo")
